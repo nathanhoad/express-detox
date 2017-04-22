@@ -1,0 +1,22 @@
+{
+  "name": "express-detox",
+  "version": "1.0.0",
+  "description": "Remove unwanted things from request.body",
+  "main": "index.js",
+  "author": "Nathan Hoad",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "homepage": "https://github.com/nathanhoad/express-detox#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanhoad/express-detox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanhoad/express-detox/issues"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
